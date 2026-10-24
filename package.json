@@ -1,10 +1,10 @@
 {
   "name": "druginteraction",
   "version": "1.0.0",
+  "description": "Drug Interaction Checker",
+  "main": "api/check.js",
   "engines": {
     "node": "24.x"
   },
-  "dependencies": {
-    "..." : "..." 
-  }
+  "dependencies": {}
 }
